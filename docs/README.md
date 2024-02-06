@@ -14,14 +14,12 @@ Clearfly Communications (Clearfly) has an open peering policy and evaluates all 
   - Any form of DoS attack
   - Unsolicited bulk email (spam)
   - Default route directed at Clearfly Communications
-
-> [!NOTE]
-> Clearfly reserves the right to suspend peering due to service-affecting instability of peer devices or routes
+- Clearfly reserves the right to suspend peering due to service-affecting instability of peer devices or routes
 
 ---
 
 ### Peering & Contact Information
 
-ASN: 27400<br />
-Peering Email: [netops@clearfly.net](mailto:netops@clearfly.net)</br>
+ASN: 27400 <br />
+Peering Email: [netops@clearfly.net](mailto:netops@clearfly.net) </br>
 PeeringDB Record: [https://www.peeringdb.com/asn/27400](https://www.peeringdb.com/asn/27400)
