@@ -20,6 +20,6 @@ Clearfly Communications (Clearfly) has an open peering policy and evaluates all 
 
 ### Peering & Contact Information
 
-ASN: 27400 <br />
-Peering Email: [netops@clearfly.net](mailto:netops@clearfly.net) </br>
+ASN: 27400  
+Peering Email: [netops@clearfly.net](mailto:netops@clearfly.net)  
 PeeringDB Record: [https://www.peeringdb.com/asn/27400](https://www.peeringdb.com/asn/27400)
